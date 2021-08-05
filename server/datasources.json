@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "3.129.29.75",
+    "port": 3040,
+    "url": "",
+    "database": "acrilicosdb",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
